@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="distanceFrequency">
+        <item name="1">1</item>
+        <item name="5">5</item>
+        <item name="10">10</item>
+    </string-array>
+</resources>
